@@ -468,7 +468,8 @@ button:focus {
 }
 
 .mu-skill-progress-bar h3 {
-	margin-top: 20px;
+	margin-top: 1px;
+	padding-left: 15;
 }
 
 .mu-skill-progress-bar>span {
@@ -481,7 +482,7 @@ button:focus {
 
 .mu-skill-progress-bar .mu-pro-bar {
 	width: 100%;
-	margin-bottom: 15px;
+	margin-bottom: 10px;
 	text-align: center;
 }
 
